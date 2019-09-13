@@ -12,3 +12,6 @@ A React component should use props to store information that can be changed, but
 A React component should use state to store information that the component itself can change.
 
 
+
+## Notes
+make sure you put FIxes #ISSUE_NUMBER_HERE in the opening post of the PR. It'll automatically close issues when the PR is merged.
