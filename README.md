@@ -17,3 +17,5 @@ A React component should use state to store information that the component itsel
 make sure you put FIxes #ISSUE_NUMBER_HERE in the opening post of the PR. It'll automatically close issues when the PR is merged.
 
 yarn test:update-snaps
+
+Fork first then Clone
